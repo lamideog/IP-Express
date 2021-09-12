@@ -67,7 +67,20 @@ section span{
     
 }
 
+div.subFooterRow{
+    display: flex;
+    background-color: #d3dfeb;
+    color: steelblue;
+    padding:40px;
+    
+}
+div.column{
+    flex: 30%;
 
+}
+.subFooterRow a{
+    color:steelblue;
+}
 footer{
     background-color: steelblue;
     color: white;
