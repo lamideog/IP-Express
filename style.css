@@ -1,0 +1,50 @@
+
+p.header{
+    margin: 20px; 
+    padding: 20px;
+    /* position: fixed; */
+    /* background-color: white; */
+}
+div{
+    column-count:6;
+    
+}
+span{
+    display: inline-block;
+    float: right;
+    margin: 20px;
+    padding:20px;
+    
+}
+a:link{
+    color:steelblue;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 10px;
+}
+a:visited{
+    color:steelblue;
+}
+
+a:hover{
+    color: slategray;
+}
+p.contact{
+    background-color: steelblue;
+    color:white;
+    margin:50px;
+    padding:50px;
+    font-size: 50px;
+    text-align: center;
+}
+p.end{
+    background-color: #b8bfc5;
+}
+footer{
+    background-color: #b8bfc5;
+    /* text-align: center; */
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: steelblue ;
+    
+}
