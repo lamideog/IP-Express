@@ -81,6 +81,10 @@ div.column{
 .subFooterRow a{
     color:steelblue;
 }
+span.visit{
+    font-weight: bold;
+    font-size: 20px;
+}
 footer{
     background-color: steelblue;
     color: white;
