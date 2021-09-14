@@ -66,6 +66,12 @@ section span{
     font-size: 100%;
     
 }
+main h1{
+    color: steelblue;
+    text-align: center;
+    margin: 50px;
+    padding: 30px;
+}
 
 div.subFooterRow{
     display: flex;
@@ -80,6 +86,7 @@ div.column{
 }
 .subFooterRow a{
     color:steelblue;
+    text-decoration: none;
 }
 span.visit{
     font-weight: bold;
