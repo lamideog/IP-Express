@@ -142,6 +142,7 @@ footer span{
     div.content{
         display: block;
         background-color: #d3dfeb;
+        white-space: nowrap;
     }
     div.content a{
         color:steelblue;
