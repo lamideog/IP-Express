@@ -235,12 +235,18 @@ footer span{
        display: none;
    } 
    .mobileheader{
-       display: block;
-       color:black;
+       display: flex;
+       color:steelblue;
        background-color: whitesmoke;
        padding: 20px;
        font-weight: bolder;
+       justify-content:space-between;
        
+       
+   }
+   .mobileheader a{
+       color: steelblue;
+       text-decoration: none;
    }
    .well{
        display: none;
