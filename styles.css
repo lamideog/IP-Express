@@ -279,6 +279,7 @@ footer span{
    }
    .mobileours{
        display: block;
+       margin-left: 30px;
 
    }
    .mobileours img{
