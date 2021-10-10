@@ -205,8 +205,8 @@ div.subFooterRow{
     display: flex;
     background-color: rgb(1, 19, 34);
     color: whitesmoke;
-    padding-left:120px;
-    padding-right: 200px;
+    padding-left:80px;
+    padding-right: 80px;
     padding-top: 20px;
     
 }
@@ -281,9 +281,8 @@ footer span{
        display: block;
    }
    .mobileours img{
-       max-width: 700px;
-       max-height: 100px;
-       padding: 20px;
+       max-width: 350px;
+       padding: 10px;
    }
    div.subFooterRow{
        display: none;
