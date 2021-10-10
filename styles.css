@@ -280,6 +280,7 @@ footer span{
    .mobileours{
        display: block;
        margin-left: 30px;
+       margin-right: 0px;
 
    }
    .mobileours img{
