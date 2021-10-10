@@ -279,11 +279,12 @@ footer span{
    }
    .mobileours{
        display: block;
+
    }
    .mobileours img{
        max-width: 350px;
        padding: 10px;
-       padding-left: 25px;
+       padding-right: 0px;
    }
    div.subFooterRow{
        display: none;
