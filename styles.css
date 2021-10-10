@@ -283,6 +283,7 @@ footer span{
    .mobileours img{
        max-width: 350px;
        padding: 10px;
+       padding-left: 25px;
    }
    div.subFooterRow{
        display: none;
